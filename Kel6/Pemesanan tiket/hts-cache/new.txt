@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-07:29:52	125/125	---M-Z	200	added ('OK')	text/plain	date:Wed,%2030%20Apr%202025%2000:29:55%20GMT	https://myticket.kenzap.com/robots.txt		(from )
-07:29:53	102911/102911	---M-Z	200	added ('OK')	text/html	date:Wed,%2030%20Apr%202025%2000:29:55%20GMT	https://myticket.kenzap.com/	C:/Users/garut/OneDrive/Documents/Rillz/Pemesanan%20tiket/myticket.kenzap.com/index.html	(from )
-07:29:53	42/42	---M--	405	error ('Method%20Not%20Allowed')	text/plain	date:Wed,%2030%20Apr%202025%2000:29:55%20GMT	https://myticket.kenzap.com/xmlrpc.php	C:/Users/garut/OneDrive/Documents/Rillz/Pemesanan%20tiket/myticket.kenzap.com/xmlrpc.php	(from https://myticket.kenzap.com/)
